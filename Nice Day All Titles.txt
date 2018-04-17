@@ -33,6 +33,7 @@ Yes, Ma'am.
  
 Do you find anything . . . 
 bizarre about my way of speaking? 
+ 
 I do not mean the voice. 
 No, I mean the words. 
 I use none but the 
@@ -933,3 +934,4 @@ let us move a little up the platform
 yes let us all do that
 no?
 you have changed your mind
+ 
