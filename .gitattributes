@@ -1,0 +1,6 @@
+*.qlab4
+Barrell.qlab4 filter=lfs diff=lfs merge=lfs -text
+Christy-Tyler.qlab4 filter=lfs diff=lfs merge=lfs -text
+CreateMultiLineTitles[[:space:]]from[[:space:]]texteditv4.qlab4 filter=lfs diff=lfs merge=lfs -text
+Show.qlab4 filter=lfs diff=lfs merge=lfs -text
+Single[[:space:]]Video.qlab4 filter=lfs diff=lfs merge=lfs -text
