@@ -1,4 +1,7 @@
  
+ 
+ 
+ 
 Poor woman
 All alone in that ruinous old house
   
@@ -65,9 +68,11 @@ Why do you not climb up on the
 crest of your manure 
 and let yourself be carried away? 
 Is it that you have no head for heights?
+ 
 Wiyya ta hell out of that!
  
 She doesn't move a muscle
+ 
 I too should be getting along 
 if I do not wish to arrive 
 late at the station
@@ -83,7 +88,7 @@ I wouldn't dally
 How she gazes at me to be sure with her 
 great 
 moist 
-leg-tormented 
+cleg-tormented 
 eyes! 
 Perhaps 
 if I were to move on
@@ -336,7 +341,7 @@ and we'll be there
 with time and to spare
  
 What?
-What's all this now? 
+What's all this then? 
 Can't you see Im in trouble? 
 Have you no respect for misery? 
 Minnie! 
@@ -528,13 +533,14 @@ Has he then
 recovered his sight?
 No
 I mean when he knows
-what will he say when he
+what will Dan say when he
  
 feels the hole? 
  
 What are you doing Mr. Slocum?
  
 Gazing straight before me
+ 
 through the windshield
  
 out at the void
@@ -602,7 +608,7 @@ well known
 Do as you're told Tommy
 for goodness sake
 Yessir
-now Ms. Rooney
+now Mrs Rooney
 wait! Tommy wait!
 don't bustle me
 let me just wheel round 
@@ -616,7 +622,7 @@ easy
 Wait for god's sake
 You'll have me beheaded
 Crouch
-down Ms. Rooney
+down Mrs Rooney
 crouch down and 
 get your head into the open
 Crouch down at my time of life
@@ -633,15 +639,17 @@ am I in?
 Tommy?
 Tommy?
 where the hell are you?
-you wouldn't have something for the Ladies' plate sir?
+you wouldn't have something 
+for the Ladies' plate sir?
 I was given Flash Harry
 Flash Harry
 that carthorse
 Tommy
 Blast your bleeding bloody
-oh Ms. Rooney
+oh Mrs Rooney
  
-who was that crucifying his gear box Tommy
+who was that 
+crucifying his gear box Tommy
 Old Cissy Slocum
 Cissy Slocum
 That's a nice way to refer to your elders
@@ -683,7 +691,7 @@ it had never happened
  
 How long have you been 
 master of this station now Mr. Barrell?
-don't ask me Ms. Rooney 
+don't ask me Mrs Rooney 
 don't ask me
 You stepped into your father's shoes 
 I suppose when he took them off
@@ -702,7 +710,7 @@ You'll be retiring soon yourself
 Mr. Barrell and growing your roses
 did I understand you to say
 the twelve thirty will soon be upon us?
-this were my words
+those were my words
 but according to my watch 
 which is more or less right
 or was according to the
@@ -764,13 +772,13 @@ that's right
 Look closely
 and you will finally distinguish 
 a once female form
-Ms. Rooney
+Mrs Rooney
 I saw you but I didn't know you
 Last Sunday we worshipped together
 We knelt side by side at the same altar
 drank from the same chalice
 have I so changed since then
-oh but in church Ms. Rooney
+oh but in church Mrs Rooney
 in church I am alone with my maker
 are not you?
 why even the pastor himself you know
@@ -808,7 +816,7 @@ she says when I start eating my doily
 instead of the thin bread and butter
 'Hettie' how can you be so distrait?
 I believe the truth is 
-I'm just not there Ms. Rooney
+I'm just not there Mrs Rooney
 just not really there at all
 I eat drink sleep 
 I go through the usual motions but my
@@ -821,11 +829,11 @@ I would soon be flown
  
 home
 so if you think I
-cut you just now Ms. Rooney 
+cut you just now Mrs Rooney 
 you do me an injustice
 All I see is a big red blur
 Just another big red blur
-Is something amiss Ms. Rooney
+Is something amiss Mrs Rooney
 you don't seem normal somehow
 so bowed and bent?
 Maddy Rooney nee Dunne
@@ -841,7 +849,7 @@ the face of this cliff
 I have little doubt 
 your maker would requite you
 if no one else
-Now now Ms. Rooney
+Now now Mrs Rooney
 don't put your teeth into me
 requite
 I make these sacrifices for nothing 
@@ -862,7 +870,7 @@ a helping hand
 for one moment
 Christ what a planet
 really
-do you know what it is Ms. Rooney
+do you know what it is Mrs Rooney
 I don't think it is wise of you 
 to be going about at all
 come down here Ms. Fitt
@@ -912,7 +920,7 @@ turn me on
 the night is dark and I am 
 far from home
 tum tum
-stop it Ms. Rooney
+stop it Mrs Rooney
 Stop it, or I'll drop you
  
 A little later, on the platform 
@@ -949,9 +957,9 @@ you have lost your mother Ms. Fitt
 she said she would be on the 
 last train
 do not imagine because I am silent
-that I am not present and a live to 
-all that is going on
-When you say the last train
+that I am not present and 
+alive to all that is going on
+When you say the last train..
 do not flatter yourself
 for one moment
 because I hold aloof that my 
@@ -1080,34 +1088,6 @@ she's coming
  
 she's at the level crossing
  
- 
-the up train!
- 
-the up train!
- 
-Dan!
-are you alright? 
-where is he?
- 
-Dan!
-have you seen my husband?
- 
-Dan!
- 
-he isn't on it 
-the misery I have endured to get here
-and he isn't on it
-Mr. Barrell
- 
-was he not on it?
- 
-Is anything the matter?
- 
-you look as if you had seen a ghost
-Tommy have you seen the master?
-He'll be along Ma'am
-Jerry is watching him
- 
 Oh Dan there you are 
  
 Where in the world were you?
@@ -1232,7 +1212,6 @@ Sometimes I wonder if they do not
 change them in the night
 Well? 
 How many do you make them to be?
-
 Do not ask me to count not now. 
 Not count ?
 One of the few great pleasures in life
@@ -1274,7 +1253,6 @@ A straight run!
 She calls 
 that 
 a straight run!
- 
 Hush! do not speak as you go along
 you know it is not good for your coronary
 Just concentrate on putting 
